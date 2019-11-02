@@ -1,0 +1,5 @@
+(Mark/mark dialogue normal l, BOTTOM_LEFT, E) [Mark] @These are the previous gauntlets Antony built. 
+[Mark] @They're a lot different from the ones I'm using.
+[Mark] @...I wonder why he built these in the first place.
+
+

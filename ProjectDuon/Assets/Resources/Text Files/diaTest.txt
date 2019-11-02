@@ -1,0 +1,33 @@
+// HOW TO WRITE A DIALOGUE TXT FILE
+// all dialogue files should be written as follows:
+// 
+// each line in the text file is a line that will appear on the game
+// the dialogue text in each line MUST start with an @
+//
+// each line CAN have a speaker, indicated by []
+//
+// each line CAN have up to 4 of dialogue sprites, indicated by ()
+// within each (), there MUST be the name of the character, followed by a / , the name of the sprite and its position (TOP_RIGHT, TOP_LEFT, BOTTOM_RIGHT or BOTTOM_LEFT) and whether it's enabled or not (E or D), all separated by commas
+// if you want to clear a sprite, use NONE, followed by the position you want to clear
+// these images don't have to be in any particular order
+//
+// each line CAN have an associated speed, indicated by {}. higher values mean slower text. if left unspecified, will default to 0.01
+//
+// the order of components MUST be: (sprites) {speed} [speaker] @text
+//
+//
+// for example, this is a valid line:
+//
+// (Luna/luna dialogue thinking r, TOP_RIGHT, D) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) {0.02} [Luna] @Are you sure about this? You've always been so protective when it comes to me.
+//
+//
+// comments can be written using //, these will not interfere during gameplay
+//
+//
+// functioning example:
+//
+
+{0.03} @This is a dialogue test.
+(Luna/luna dialogue normal l, BOTTOM_LEFT, E) {0.02} [Luna] @Hi there!
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (NONE, BOTTOM_LEFT) {0.05} [Luna] @I'm Luna, and I'm fucking green just like weed lol
+(Luna/luna dialogue normal r, TOP_RIGHT, E) (Luna/luna dialogue normal l, TOP_LEFT, D) (NONE, BOTTOM_LEFT) (NONE, BOTTOM_RIGHT) [Luna] @I'm high as fuck

@@ -1,0 +1,14 @@
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) [Luna] @Hey, mom. How's the research going?
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) [Lilith] @Ah, Luna. It's going smoothly, however we'll still need some time. In the meantime, do you need a refresher of the current situation?
+(Lilith/lilith dialogue concerned l, BOTTOM_LEFT, E) [Lilith] @As you know, there are two parallel universes that we know of. The one we inhabit, and the one Mark and Antony are from.
+[Lilith] @Recently, due to an unknown cause, connections between these two universes have been manifesting in the form of breaches in space.
+[Lilith] @While physical objects can't travese these cracks, we can still sometimes see each other through them.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (Lilith/lilith dialogue concerned l, BOTTOM_LEFT, D) [Luna] @Right. And how about those Outmarrow?
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Lilith/lilith dialogue concerned l, BOTTOM_LEFT, E) [Lilith] @Well, in the space "between" our universes, there exists a type of... Void, which we have named the Outspace.
+[Lilith] @We've known of its existence for a while now, but we thought it was empty.
+[Lilith] @As it turns out, it seems to be inhabited by a class of primal, feral creatures. Since they come from the Outspace, we've called them Outmarrow.
+[Lilith] @They are rabid creatures, with no sense of fear or emotion. Their sole purpose seems to be the consumption of living matter.
+[Lilith] @Unlike you or me, Outmarrow occupy a higher dimensional space. Just as a three-dimensional cube can be part of multiple two-dimensional planes...
+[Lilith] @...So too can Outmarrow exist in multiple universes.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (Lilith/lilith dialogue concerned l, BOTTOM_LEFT, D) [Luna] @And that's why Mark can see them too, right?
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) [Lilith] @Correct. Well, that's the gist of it. I hope this helped clear some things up.

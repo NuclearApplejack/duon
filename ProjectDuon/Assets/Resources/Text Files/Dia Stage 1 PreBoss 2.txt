@@ -1,0 +1,9 @@
+(Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) (Luna/luna dialogue normal r, BOTTOM_RIGHT, E) [Luna] @Yeah, I've found them. They look intact. 
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) [Lilith] @Umm... Is there anything else nearby? T-There should be a...
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) [Luna] @A picture? Yeah, I've picked it up too. I knew you'd ask.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Mark/mark dialogue normal r, TOP_RIGHT, E) [Mark] @Uh...
+(Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) (Mark/mark dialogue normal r, TOP_RIGHT, D) [Lilith] @Ah, good. You know me too well, Luna, dear.
+(Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) (Mark/mark dialogue angry r, TOP_RIGHT, E) [Mark] @Erm...
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (Mark/mark dialogue angry r, TOP_RIGHT, D) [Luna] @Well, now that that's done, shall we leave?
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Mark/mark dialogue angry r, TOP_RIGHT, E) [Mark] @L-Luna, you... You're seeing that too, right?
+(Luna/luna dialogue angry r, BOTTOM_RIGHT, E) (Mark/mark dialogue angry r, TOP_RIGHT, D) [Luna] @Seeing...? Seeing what?

@@ -1,0 +1,2 @@
+(Mark/mark dialogue normal l, BOTTOM_LEFT, E) [Mark] @It's not every day you get to see a self-sustaining, flickering green flame.
+[Mark] @Especially not one that came from a giant jellyfish monster thing.

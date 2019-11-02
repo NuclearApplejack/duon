@@ -1,0 +1,9 @@
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) [Luna] @Hey, mom. How's the research going?
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) [Lilith] @Ah, Luna. It's going smoothly, however we'll still need some time. Multidimensionality is a rather... advanced subject.
+[Lilith] @The Kernel you obtained has been helping, though, so there's that.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) [Luna] @I'm glad. I wish I was as smart as you, so I could help out here too.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) [Lilith] @Now, now, do not overexert yourself. You're assisting us...
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) [Lilith] @...No, you're helping everyone by going out and taking those Outmarrow down with Mark, and, as we stand, that is more than enough.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) [Luna] @...I thought you'd say something like that.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) [Lilith] @Oh. Umm...
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) [Luna] @...Thanks, mom.

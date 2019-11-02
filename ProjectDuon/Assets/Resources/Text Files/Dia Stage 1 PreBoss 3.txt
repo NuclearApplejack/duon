@@ -1,0 +1,18 @@
+(Luna/luna dialogue angry r, BOTTOM_RIGHT, E) [Luna] @W-What the hell...?
+(Luna/luna dialogue angry r, BOTTOM_RIGHT, D) (Antony/antony dialogue normal l, TOP_LEFT, E) [Antony] @Look out, you two. We're detecting some weird readings from the building's rooftop.
+(Lilith/lilith dialogue concerned l, BOTTOM_LEFT, E) (Antony/antony dialogue normal l, TOP_LEFT, D) [Lilith] @Hold on. They...  They're Alpha readings.
+(Lilith/lilith dialogue concerned l, BOTTOM_LEFT, D) (Mark/mark dialogue normal r, TOP_RIGHT, E) [Mark] @Alpha readings? And... What are those?
+(Antony/antony dialogue normal l, TOP_LEFT, E) (Mark/mark dialogue normal r, TOP_RIGHT, D) [Antony] @It seems there exists an abnormally strong Outmarrow sub-class. We're calling them Alphas.
+(Lilith/lilith dialogue concerned l, BOTTOM_LEFT, E) (Antony/antony dialogue normal l, TOP_LEFT, D) [Lilith] @Alphas appear to lead Outmarrow invasions, and have been reported to cause major damage to structures. Some of them can even spawn other Outmarrow.
+(Luna/luna dialogue angry r, BOTTOM_RIGHT, E) (Lilith/lilith dialogue concerned l, BOTTOM_LEFT, D) [Luna] @So, basically, this thing is pretty dangerous. Should we investigate?
+(Luna/luna dialogue angry r, BOTTOM_RIGHT, D) (Mark/mark dialogue angry r, TOP_RIGHT, E) [Mark] @Y-You're kidding, right? What even is there to investigate!? We got what we came here for, we should just leave, right?
+(Antony/antony dialogue normal l, TOP_LEFT, E) (Mark/mark dialogue angry r, TOP_RIGHT, D) [Antony] @...
+(Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) (Antony/antony dialogue normal l, TOP_LEFT, D) [Lilith] @...It's alright if you want to leave, we won't force you to do anything. However...
+(Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) (Antony/antony dialogue normal l, TOP_LEFT, E) [Antony] @The military has managed to kill a small number of Alphas, and their remains seem to contain some sort of... Essence.
+(Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) (Antony/antony dialogue normal l, TOP_LEFT, D) [Lilith] @Information on this is limited, but this essence could prove to be a key item in our research into why these dimensional cracks are showing up out of nowhere.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) (Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) [Luna] @...Understood. Let's go, Mark.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Mark/mark dialogue normal r, TOP_RIGHT, E) [Mark] @*sigh* Guess I have no choice. Let's go.
+(Lilith/lilith dialogue concerned l, BOTTOM_LEFT, E) (Mark/mark dialogue normal r, TOP_RIGHT, D) [Lilith] @Here is some more info. From what we've gathered, this one Alpha in particular stays mostly immobile, while firing energy at its foes.
+(Lilith/lilith dialogue concerned l, BOTTOM_LEFT, E) (Mark/mark dialogue normal r, TOP_RIGHT, D) [Lilith] @It might be prudent to wait for it to attack, and retaliate from a safe position.
+(Lilith/lilith dialogue normal l, BOTTOM_LEFT, E) [Lilith] @The two of you, be careful. If things start to look ugly, get out of there immediately.
+(Lilith/lilith dialogue normal l, BOTTOM_LEFT, D) (Antony/antony dialogue normal l, TOP_LEFT, E) [Antony] @We don't want you getting too hurt out there. Be on your guard.

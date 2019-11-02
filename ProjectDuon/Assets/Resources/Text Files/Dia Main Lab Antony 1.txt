@@ -1,0 +1,10 @@
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, E) [Mark] @Yo Antony, you sure these gauntlets work? Like... They're not dangerous at all, right?
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, D) (Antony/antony dialogue normal l, BOTTOM_LEFT, E) [Antony] @Hrmm... Well, early prototypes were pretty unstable, but nothing too bad. It's not like one of them...
+[Antony] @...Blew up in my face during testing or anything.
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, E) (Antony/antony dialogue normal l, BOTTOM_LEFT, D) [Mark] @...Well, that's reassuring.
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, E) (Antony/antony dialogue normal l, BOTTOM_LEFT, D) [Mark] @Still, these things are pretty nifty. Did you build this stuff by yourself?
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, D) (Antony/antony dialogue normal l, BOTTOM_LEFT, E) [Antony] @Well, I did have the help of Lilith, and, by their standards, this is fairly outdated tech.
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, E) (Antony/antony dialogue normal l, BOTTOM_LEFT, D) [Mark] @Oh yeah, which reminds me, this communicator you gave me... Can I actually talk to Lilith and Luna through this thing?
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, D) (Antony/antony dialogue normal l, BOTTOM_LEFT, E) [Antony] @Yup. The four of us are connected at all times, no matter where you are, even across dimensions.
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, E) (Antony/antony dialogue normal l, BOTTOM_LEFT, D) [Mark] @Nice! I have to say, it's a pretty big coincidence that you and Lilith happen to be interested in dimensions and stuff.
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, D) (Antony/antony dialogue normal l, BOTTOM_LEFT, E) [Antony] @Ah, uh, yes, *ahem* a big coincidence, yes. Yes. Correct. *cough, cough* Just a... Just a coincidence.

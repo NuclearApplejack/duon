@@ -1,0 +1,5 @@
+(Mark/mark dialogue normal l, BOTTOM_LEFT, E) [Mark] @That's Antony's personal desk.
+[Mark] @I guess he does his research about this Outmarrow stuff here.
+[Mark] @There's his computer, some papers, a picture and... Some trash?
+(Mark/mark dialogue normal l, BOTTOM_LEFT, D) [Antony] @PLEASE, IGNORE THE CANDY WRAPPINGS!!
+(Mark/mark dialogue normal l, BOTTOM_LEFT, E) [Mark] @...Looks like someone's an addict.

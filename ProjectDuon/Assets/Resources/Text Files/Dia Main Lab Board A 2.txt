@@ -1,0 +1,2 @@
+(Mark/mark dialogue normal l, BOTTOM_LEFT, E) [Mark] @Seems Antony has updated some stuff over here.
+[Mark] @I guess getting that Kernel really pushed their research forward.

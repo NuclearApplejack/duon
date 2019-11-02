@@ -1,0 +1,3 @@
+(Luna/luna dialogue angry l, BOTTOM_LEFT, E) [Luna] @...
+[Luna] @You've caused mom a lot of grief, you know.
+(Luna/luna dialogue normal l, BOTTOM_LEFT, E) [Luna] @...I wonder if you're still out there.

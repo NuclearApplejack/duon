@@ -1,0 +1,2 @@
+(Mark/mark dialogue normal l, BOTTOM_LEFT, E) [Mark] @Huh. It's a white smartboard.
+[Mark] @It's full of images and data I honestly can't be bothered to try and understand.

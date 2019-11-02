@@ -1,0 +1,6 @@
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, E) [Mark] @Hey, Antony. How's it going with the Outmarrow thing?
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, D) (Antony/antony dialogue normal l, BOTTOM_LEFT, E) [Antony] @Ah, Mark. We're furthering our research into those Alpha Outmarrow. 
+[Antony] @The Kernels they drop will help us a lot, but progress will take some time.
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, E) (Antony/antony dialogue normal l, BOTTOM_LEFT, D) [Mark] @That's nice. I'm thankful you and Lilith trust me and Luna to do this.
+(Mark/mark dialogue normal r, BOTTOM_RIGHT, D) (Antony/antony dialogue normal l, BOTTOM_LEFT, E) [Antony] @We're the ones who should be grateful. Lilith and me, we're not exactly, erm, in shape to do any fieldwork.
+[Antony] @Luna and you, on the other hand, you're young and strong. We can trust you two.

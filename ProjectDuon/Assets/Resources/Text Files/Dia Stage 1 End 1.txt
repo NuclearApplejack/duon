@@ -1,0 +1,3 @@
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, E) [Luna] @*huff* ...I-I think we've killed it.
+(Luna/luna dialogue normal r, BOTTOM_RIGHT, D) (Mark/mark dialogue normal l, BOTTOM_LEFT, E) [Mark] @Y-Yeah! *puff* That wasn't so bad.
+[Mark] @I think I see that essence thing too.
